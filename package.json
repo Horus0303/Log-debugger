@@ -1,0 +1,15 @@
+{
+  "name": "debugger_log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "Kevin Cruces",
+  "license": "ISC",
+  "dependencies": {
+    "async-redis": "^2.0.0",
+    "redis": "^3.1.2"
+  }
+}
